@@ -7,5 +7,5 @@ I'll be using Replit,an amazing online IDE so i can do
 this from my phone wherever I happen to be.No excuses
 from not coding from the middle of a field!
 I am feeling 🥳😚💃
-you can follow my progress at  my github
+you can follow my progress at  https://github.com/Eugeniaasongo/100-days-code.git
 """)
