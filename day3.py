@@ -1,0 +1,7 @@
+name = input("Name a food: ")
+type = input("Name a type of vegetable: ")
+fruit = input("Name of Fruit ")
+method = input("Name a method of cooking: ")
+word = input("What word describes burned food: ")
+diy = input("name a diy item: ")
+print("MENU: ", method , name , "with ", type ,"and " , fruit )
